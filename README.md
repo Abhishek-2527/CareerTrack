@@ -1,4 +1,4 @@
-# CareerTrack — Career & Placement Tracker
+# CareerTrack — Career & Placement Trackerr
 
 A modern, responsive dashboard that helps students organize job applications, track placement progress, monitor application statuses, and manage their career goals in one place.
 
